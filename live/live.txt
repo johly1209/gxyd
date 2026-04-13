@@ -71,7 +71,6 @@ CCTV-5+,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226363/index.m3u8
 南宁新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226341/index.m3u8?servicetype=1
 南宁文旅生活,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226344/index.m3u8?servicetype=1
 南宁影视娱乐,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226337/index.m3u8?servicetype=1
-南宁公共频道,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226340/index.m3u8?servicetype=1
 桂林新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226343/index.m3u8?servicetype=1
 桂林科教旅游,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226339/index.m3u8?servicetype=1
 桂林公共频道,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226342/index.m3u8?servicetype=1
