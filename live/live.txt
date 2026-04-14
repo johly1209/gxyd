@@ -1,4 +1,4 @@
-2026/03/26 20:26:00
+﻿2026/03/26 20:26:00
 # 由唐制作
 
 = 有效源 =
@@ -74,5 +74,4 @@ CCTV-5+,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226363/index.m3u8
 桂林新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226343/index.m3u8?servicetype=1
 桂林科教旅游,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226339/index.m3u8?servicetype=1
 桂林公共频道,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226342/index.m3u8?servicetype=1
-淇县电视台,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
 纯享4K,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1
