@@ -1,0 +1,10 @@
+2026/3/27 00:50:00
+# 由唐制作
+
+= 有效源 =
+
+
+北京卫视4K,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226333/index.m3u8?servicetype=1
+江苏卫视4K,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226468/index.m3u8?servicetype=1
+CCTV-4K,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226689/index.m3u8?servicetype=1
+CCTV-8K,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226278/index.m3u8?servicetype=1
