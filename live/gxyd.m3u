@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml.gz"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV1.png",CCTV1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226355/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV1.png",CCTV1
