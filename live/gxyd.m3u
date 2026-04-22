@@ -1,47 +1,47 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-1.png",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV1.png",CCTV1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226355/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-1.png",CCTV-1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV1.png",CCTV1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-2.png",CCTV-2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV2.png",CCTV2
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226360/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-3.png",CCTV-3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV3.png",CCTV3
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226358/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-4" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-4.png",CCTV-4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV4.png",CCTV4
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226361/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-5.png",CCTV-5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV5.png",CCTV5
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225801/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-5.png",CCTV-5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV5.png",CCTV5
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226359/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-6.png",CCTV-6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV6.png",CCTV6
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226366/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-6.png",CCTV-6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV6.png",CCTV6
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225936/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-7" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-7.png",CCTV-7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV7.png",CCTV7
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226364/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-8" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-8.png",CCTV-8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV8.png",CCTV8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226001/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-9" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-9.png",CCTV-9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV9.png",CCTV9
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226365/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-10" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-10.png",CCTV-10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV10.png",CCTV10
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226004/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-11.png",CCTV-11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV11.png",CCTV11
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226367/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-12" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-12.png",CCTV-12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV12.png",CCTV12
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226013/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-13" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-13.png",CCTV-13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV13.png",CCTV13
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-13" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-13.png",CCTV-13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV13.png",CCTV13
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-14.png",CCTV-14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV14.png",CCTV14
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226372/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-15.png",CCTV-15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV15.png",CCTV15
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226375/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-16.png",CCTV-16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV16.png",CCTV16
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226373/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-17" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-17.png",CCTV-17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV17.png",CCTV17
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226371/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-5_2.png",CCTV-5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV5_2.png",CCTV5+
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226363/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/湖南卫视.png",湖南卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226388/index.m3u8?servicetype=1
@@ -115,7 +115,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226426/index.m3u8?service
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226416/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/内蒙古卫视.png",内蒙古卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/凤凰卫视.png",凤凰卫视
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/凤凰卫视.png",凤凰卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/广西新闻.png",广西新闻
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226407/index.m3u8?servicetype=1
