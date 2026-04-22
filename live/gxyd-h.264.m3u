@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV1.png",CCTV-1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV1.png",CCTV-1
@@ -102,7 +102,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226398/index.m3u8?service
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/陕西卫视.png",陕西卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225754/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/陕西卫视.png",陕西卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226400/index.m3u8?servicetype=1.
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226400/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/甘肃卫视.png",甘肃卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225764/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/甘肃卫视.png",甘肃卫视
