@@ -108,9 +108,9 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226413/index.m3u8?service
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/青海卫视.png",青海卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/新疆卫视.png",新疆卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/新疆卫视.png",新疆卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226426/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/新疆卫视.png",新疆卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/西藏卫视.png",西藏卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226416/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/内蒙古卫视.png",内蒙古卫视

@@ -76,6 +76,8 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225904/index.m3u8?service
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/辽宁卫视.png",辽宁卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225779/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/吉林卫视.png",吉林卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226389/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/吉林卫视.png",吉林卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225678/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/黑龙江卫视.png",黑龙江卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225734/index.m3u8?servicetype=1
@@ -112,9 +114,9 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226413/index.m3u8?service
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/青海卫视.png",青海卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/新疆卫视.png",新疆卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/新疆卫视.png",新疆卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226426/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/新疆卫视.png",新疆卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/西藏卫视.png",西藏卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/西藏卫视.png",西藏卫视
