@@ -1,0 +1,10 @@
+#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml"
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://gitee.com/johly/gxyd/raw/master/live/BenchMark/北京卫视4K.png",北京卫视4K
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226333/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://gitee.com/johly/gxyd/raw/master/live/BenchMark/江苏卫视4K.png",江苏卫视4K
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226468/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/johly/gxyd/raw/master/live/BenchMark/CCTV-4K.png",CCTV-4K
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226689/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gitee.com/johly/gxyd/raw/master/live/BenchMark/CCTV-8K.png",CCTV-8K
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226278/index.m3u8?servicetype=1
+
