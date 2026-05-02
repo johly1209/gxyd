@@ -149,11 +149,11 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226343/index.m3u8?service
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226339/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="桂林公共频道" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/桂林公共频道.png",桂林公共频道
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226342/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/johly/gxyd/raw/master/live/BenchMark/北京卫视4K.png",北京卫视4K
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/北京卫视4K.png",北京卫视4K
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226333/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/johly/gxyd/raw/master/live/BenchMark/江苏卫视4K.png",江苏卫视4K
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/江苏卫视4K.png",江苏卫视4K
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226468/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/johly/gxyd/raw/master/live/BenchMark/CCTV-4K.png",CCTV-4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-4K.png",CCTV-4K
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226689/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/纯享4K.png",纯享4K
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1
