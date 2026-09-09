@@ -5,6 +5,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226333/index.m3u8?service
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226468/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-4K.png",CCTV-4K
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226689/index.m3u8?servicetype=1
-
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV16.png",CCTV16-4K
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226373/index.m3u8?servicetype=1
 
 
