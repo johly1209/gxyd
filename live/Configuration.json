@@ -61,7 +61,7 @@
     "#提示1": "以下设置（分割线内）为初始化配置（首次安装或清除数据时的默认设置），app第一次运行时的配置！之后运行不会生效！！！",
 
     "#18": "预置列表URL(默认勾选首个)，多个使用双竖线||隔开，格式：地址$自定义名称",
-    "LIVE_URLS": "https://raw.githubusercontent.com/johly1209/gxyd/refs/heads/main/live/gxyd.m3u$广西移动||https://raw.githubusercontent.com/johly1209/gxyd/refs/heads/main/live/gxyd-h.264.m3u$广西移动可回看||https://raw.githubusercontent.com/johly1209/gxyd/refs/heads/main/live/gxyd-uhd.m3u$4K频道||https://raw.githubusercontent.com/johly1209/gxyd/refs/heads/main/live/gxyd-8k.m3u$8K频道",
+    "LIVE_URLS": "https://raw.githubusercontent.com/johly1209/gxyd/refs/heads/main/live/gxyd.m3u$广西移动源||https://raw.githubusercontent.com/johly1209/gxyd/refs/heads/main/live/gxyd-h.264.m3u$广西移动||https://raw.githubusercontent.com/johly1209/gxyd/refs/heads/main/live/gxyd-uhd.m3u$4K频道||https://raw.githubusercontent.com/johly1209/gxyd/refs/heads/main/live/gxyd-8k.m3u$8K频道",
 
     "#19": "预置EPG URL(默认勾选首个)，多个使用双竖线||隔开，格式：地址$自定义名称",
     "EPG_URLS": "https://epg.zsdc.eu.org/t.xml.gz$ZSDC节目单||https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml.gz$CCSH节目单",
