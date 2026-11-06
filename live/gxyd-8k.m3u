@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml"
-#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/johly1209/gxyd/live/BenchMark/CCTV-8K.png",CCTV-8K
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/johly1209/gxyd/main/live/BenchMark/CCTV-8K.png",CCTV-8K
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226278/index.m3u8?servicetype=1
 
 
